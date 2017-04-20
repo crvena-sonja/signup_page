@@ -33,6 +33,7 @@ form{
 
 form h1{
 	padding-top: 25px;
+	padding-bottom: 15px;
 	text-align: center;
 }
 
@@ -97,7 +98,7 @@ div a{
 }
 
 .forgot{
-	padding-top: 10px;
+	padding-top: 5px;
 }
 
 .forgot:hover{
